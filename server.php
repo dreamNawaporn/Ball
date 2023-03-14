@@ -8,7 +8,11 @@
     $conn = mysqli_connect($identifier, $first_name, $last_name, $team, $position, $image);
 //check connection
 
-
+if(!$conn){
+    die("Connection failed". mysqli_connect_error());
+}else{
+    echo "Connected successfull";
+}
 
 
 
