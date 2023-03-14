@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta name="description" content="" />
     <meta name="author" content="" />
-    <title>ฟุตบอลโลก</title>
+    <title>ฟุตบอลไทย</title>
     <!-- Favicon-->
     <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
     <!-- Bootstrap icons-->
@@ -17,12 +17,12 @@
     <link href="data/css/body.css" rel="stylesheet" />
     <script src="https://kit.fontawesome.com/c150442d6f.js" crossorigin="anonymous"></script>
 </head>
-
+   
 <body>
     <!-- Navigation-->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container-fluid px-4 px-lg-5">
-            <a class="navbar-brand" href="index.php"><i class="bi bi-globe2"></i>&nbsp;Football World Club </a>
+            <a class="navbar-brand" href="index.php"><i class="bi bi-globe2"></i>&nbsp;Football Thai </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                 data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
                 aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
@@ -80,15 +80,15 @@
                             <option disabled selected hidden><i class="fas fa-search">คลิกเพื่อกรองนักเตะตามทีม
                                     &nbsp;&nbsp;
                                     🏆</i></option>
-                            <option value="Arsenal">Arsenal</option>
-                            <option value="Chelsea">Chelsea</option>
-                            <option value="Crystal Palace">Crystal Palace</option>
-                            <option value="Leicester">Leicester</option>
-                            <option value="Manchester City">Manchester City</option>
-                            <option value="Manchester United">Manchester United</option>
-                            <option value="Stoke">Stoke</option>
-                            <option value="Tottenham">Tottenham</option>
-                            <option value="West Brom">West Brom</option>
+                            <option value="บุรีรัมย์ ยูไนเต็ด">บุรีรัมย์ ยูไนเต็ด</option>
+                            <option value="ชลบุรี">ชลบุรี</option>
+                            <option value="ราชบุรี เอฟซี">ราชบุรี เอฟซี</option>
+                            <option value="เชียงราย ยูไนเต็ด">เชียงราย ยูไนเต็ด</option>
+                            <option value="ขอนแก่น ยูไนเต็ด">ขอนแก่น ยูไนเต็ด</option>
+                            <option value="ประจวบ">ประจวบ</option>
+                            <option value=" ลำพูน วอริเออร์">ลำพูน วอริเออร์</option>
+                            <option value="หนองบัว พิชญ">หนองบัว พิชญ</option>
+                            <option value="การท่าเรือ เอฟซี">การท่าเรือ เอฟซี</option>
                         </select>
                     </form>
                 </ul>
